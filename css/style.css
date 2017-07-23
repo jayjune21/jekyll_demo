@@ -445,7 +445,8 @@ footer {
 }
 
 .fh5co-post-date {
-  color: #b3b3b3;
+  /*color: #b3b3b3;*/
+ color: #2B2D2F;
   margin-bottom: 5px;
   display: block;
   text-transform: uppercase;

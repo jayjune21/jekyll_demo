@@ -7,7 +7,7 @@ http://www.templatemo.com/tm-488-classic
 -----------------------------*/
 
 body {
-	color: #8c8c8c;
+/*	color: #8c8c8c;*/
 	font-family: 'Open Sans', Helvetica, Arial, sans-serif;
 	font-size: 18px;
 	font-weight: 300;
@@ -15,7 +15,42 @@ body {
 	
 	width: 100%;
 	margin: auto;
-	background-color: ghostwhite;
+	background-color:honeydew;
+	background-image: url(../img/bg5.jpg);
+	/*background-size: cover;*/
+	background-attachment: fixed;
+}
+
+#artical{
+	width: 760px;
+	background-color: #006699;
+	margin: auto;
+	background-color: white;
+	padding: 20px;
+}
+
+#artical-main{
+	font-size: 17px;
+    line-height: 1.6em;
+    text-align: left;
+    font-weight: 500;
+    font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;
+    
+    
+}
+
+#artical-hd{
+	font-weight: 600;
+	
+	font-size: 1.5em;
+    -webkit-margin-before: 0.83em;
+    -webkit-margin-after: 0.83em;
+    margin-bottom: 60px;
+}
+
+#artical img{
+	width: 700px;
+	margin: auto;
 }
 
 a, button { transition: all 0.3s ease; }
