@@ -363,7 +363,7 @@ p { line-height: 1.9; }
 /*767*/
 @media (max-width: 767px) {
 	#artical{
-		width: 90%;
+		width: 100%;
 		background-color: #006699;
 		margin: auto;
 		background-color: white;
