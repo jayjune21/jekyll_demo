@@ -28,6 +28,11 @@ body {
 	background-color: white;
 	padding: 20px;
 	text-align: left;
+/*to*/	
+    font-size: 17px;
+    line-height: 1.6em;
+    font-weight: 500;
+    font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;
 }
 
 #artical-main{
