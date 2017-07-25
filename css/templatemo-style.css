@@ -54,7 +54,7 @@ body {
     margin-bottom: 60px;
 }
 
-#artical #artical-main img{
+#artical img{
 	width: 760px;
 	margin: auto;
 }
@@ -381,8 +381,8 @@ p { line-height: 1.9; }
 		    font-weight: 500;
 		    font-family: "Arial","Microsoft YaHei","黑体","宋体",sans-serif;
 	}
-	#artical #artical-main img{
-	width: 10%;
+	#artical img{
+	width: 90%;
 	margin: auto;
       }
 	.tm-main-nav {
