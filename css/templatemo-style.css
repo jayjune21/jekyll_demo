@@ -17,6 +17,7 @@ body {
 	margin: auto;
 	background-color:honeydew;
 	background-image: url(../img/bg5.jpg);
+	background-repeat:no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
 }
