@@ -15,10 +15,10 @@ body {
 	
 	width: 100%;
 	margin: auto;
-	background-color:honeydew;
+	/*background-color:honeydew;*/
 	background-image: url(../img/bg5.jpg);
 	/*background-repeat:no-repeat;*/
-	background-size: contain;
+	/*background-size: contain;*/
 	background-attachment: fixed;
 }
 
